@@ -1,7 +1,3 @@
-//Done on 27th september.
-//Passed all test cases in hackerrank
-//Thank you
-
 #include<bits/stdc++.h>
 using namespace std;
 
